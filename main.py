@@ -1,3 +1,3 @@
 from utils import print_banner
-
-print_banner("Hello World")
+message = "Hello World!"
+print_banner(message)
